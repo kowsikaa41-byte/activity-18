@@ -1,0 +1,17 @@
+body {
+    background-color:palevioletred;
+}
+
+.navbar {
+    background-color: #006994;
+}
+
+.navbar-brand,
+.nav-link {
+    color: pink;
+}
+
+.section-title {
+    color: #006994;
+    margin: 20px 0 10px;
+}
